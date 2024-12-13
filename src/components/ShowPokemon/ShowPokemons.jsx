@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { PokemonList } from "../PokemonComponents/List/PokemonList";
 import { LoadMoreButton } from "../Buttons/ButtonLoadMore/ButtonLoadMore";
 import { Div0, Img } from './StyleShowPokemon';
-import PokeLogo from '../../assets/img/PokeLogo.svg';
+import logo from '../../assets/img/logo.svg';
 import { ButtonReturnTop } from "../Buttons/ButtonReturnTop/ButtonReturnTop";
 import ThemeToggle from "../Buttons/ThemeToggler/ThemeToggler";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -74,7 +74,7 @@ export const ShowPokemons = () => {
 
     <Div0>
       <div>
-        <Img src={PokeLogo} alt="Pokémon Logo" />
+        <Img src={logo} alt="Pokémon Logo" />
       </div>
       <ThemeToggle />
       <PokemonList pokemonDetails={dataDetails} />

@@ -1,5 +1,5 @@
 import React from "react";
-import pokeBall from "../../../../public/PokeBall.png?url"
+import pokeBall from "../../../assets/img/pkball.png"
 import { Li, H2, Img, P, StyledLink } from './StylePokemonCard'
 
 
