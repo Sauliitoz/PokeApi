@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { Div1, Div2, Div3, Div4, H1, Img, P, P_Type, H3, H4, Ul, Ul2, Li, Li2, A, } from './StylePokemonDetails'
 import { ButtonReturnTop } from '../../Buttons/ButtonReturnTop/ButtonReturnTop';
-import pokeBall from '../../../assets/img/Pokeball.png'
+import pokeBall from '../../../../public/PokeBall.png?url'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHouse } from '@fortawesome/free-solid-svg-icons';
 

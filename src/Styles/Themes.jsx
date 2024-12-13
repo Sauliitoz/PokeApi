@@ -1,5 +1,5 @@
-import bglight from '../assets/img/BgLight.jpg'
-import bgDark from '../assets/img/BgBlack.jpg'
+import bglight from '../../public/BgLight.jpg?url'
+import bgDark from '../../public/BgBlack.jpg?url'
 export const LightTheme = {
   bodyBg: "#ccc",
   textColor: "#121212",
