@@ -4,6 +4,21 @@ Bem-vindo ao **PokeApi**, um projeto que consome a API oficial de Pokémon para 
 
 ---
 
+## Deploy
+
+[PokeApi-Quest](bit.ly/41x9mJX)
+
+![image](https://github.com/user-attachments/assets/d7d0e73f-8ba0-46e3-aafd-66c7352486b8)
+![image](https://github.com/user-attachments/assets/6c9ea689-51c9-48ea-ac01-9fc96dde0ac8)
+![image](https://github.com/user-attachments/assets/2d0e42b4-e9d0-4f9e-87eb-8a71a0ec8336)
+![image](https://github.com/user-attachments/assets/8c918603-e2e1-4586-9882-7194a305c05a)
+
+
+
+
+
+
+
 ## 📋 Funcionalidades  
 
 - Listagem de Pokémon com paginação.  
