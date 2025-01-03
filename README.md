@@ -28,8 +28,9 @@ Bem-vindo ao **PokeApi**, um projeto que consome a API oficial de Pokémon para 
 
 Certifique-se de ter instalado:  
 
-- Node.js (versão 16+)  
-- Gerenciador de pacotes npm ou yarn  
+- [Node.js (versão 16+)](https://nodejs.org/pt/download)
+- Gerenciador de pacotes npm ou yarn
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 ---
 
